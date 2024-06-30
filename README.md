@@ -1,7 +1,5 @@
 # 🙇 Hello! Welcome to my profile!
 
-Hi, My name is **Elie Sfeir**; also known under many acronyms as **Internalizable**, **Compilable** or **CharSequence**!  
-
 Wanna skip my introduction? [Click here to see my repos](#-bye)
 
 ## 🙋 I am...
