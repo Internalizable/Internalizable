@@ -106,7 +106,12 @@ I’ve worked across **telecom, fintech, education, food delivery, and infrastru
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=internalizable&show_icons=true&hide_border=true&count_private=true)
+<a href="https://github.com/internalizable">
+  <img height="170" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=internalizable&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/internalizable">
+  <img height="170" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=internalizable&layout=compact&hide_border=true&langs_count=8&card_width=320" />
+</a>
 
 ---
 
