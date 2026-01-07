@@ -1,27 +1,137 @@
-# 🙇 Hello! Welcome to my profile!
+# 👋 Hi, I’m Elie Sfeir
 
-Wanna skip my introduction? [Click here to see my repos](#-bye)
+Senior Software Engineer & Tech Lead building large-scale, production-grade systems used by millions.
 
-## 🙋 I am...
+🔹 10+ years of experience  
+🔹 Scaled startups to multi-million-dollar platforms  
+🔹 Led engineering teams & designed distributed architectures  
+🔹 Based in Beirut, Lebanon
 
-I am currently working as a full stack developer at Pickade Ltd, additionally; i'm currently in my third year as a ECCE student.
+🌐 https://internalizable.dev  
+📧 elie@simly.io  
+
+---
+
+## 🚀 What I Do
+
+I specialize in **designing, building, and scaling backend-heavy platforms** with a strong focus on:
+
+- Distributed & event-driven systems
+- High-traffic, high-availability architectures
+- Clean, strongly-typed codebases
+- Engineering leadership & technical direction
+
+I’ve worked across **telecom, fintech, education, food delivery, and infrastructure**, collaborating with global partners and government entities.
+
+---
+
+## 🏗️ Current Roles
+
+### **Lead Software Engineer — Simly Ltd** (2022–Present)
+- Scaled **Simly** into the largest eSIM marketplace in MENA  
+- ~$20M annual sales, **3M+ users**
+- Led a team of **10 engineers** (frontend & backend)
+- Designed **event-driven architectures** using RabbitMQ & Kubernetes
+- Built **Nx / Turborepo** TypeScript systems
+- Integrated with partners like **Apple, Booking.com, Shahid, Almosafer**
+- Worked with regional telecom providers via custom APIs
+
+### **Full Stack Software Engineer — Egyptian Ministry of Education** (2023–Present)
+- Maintained and scaled **ESTest**, a national SAT-style platform
+- Built **multi-tenant deployments** across MENA
+- Integrated **Stripe, PayPal, Paymob**
+- Supported **tens of thousands of concurrent users** during exams
+- Built **ESAbroad**, serving Egyptian students worldwide
+
+---
+
+## 🧠 Previous Experience
+
+- **Project Coordinator / Tech Lead — Lyxa**  
+  Designed and led a fully-typed **microservices ecosystem** using:
+  - tRPC
+  - RabbitMQ
+  - BullMQ
+  - Kubernetes CronJobs  
+
+- **Backend Software Engineer — Murex Ltd**  
+  - Netty + PostgreSQL backend modules  
+  - Performance-oriented architecture work  
+
+- **Freelance Developer — Spigot (Minecraft)** (2014–Present)  
+  - Early contributor post-Bukkit DMCA  
+  - Maintained compatibility across Minecraft releases  
+
+---
+
+## 🧪 Notable Projects & Recognition
+
+- **Quakely** — Earthquake detection & early-warning platform  
+  - Studied and integrated by the **Lebanese Ministry of Environment**
+- Featured in **L’Orient-Le Jour**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-purple?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge)
+
+### Frameworks & Libraries
+- Node.js, Express
+- Spring Boot, Ktor, Netty
+- React, Angular, Tailwind CSS
+- tRPC
+
+### Infrastructure & Tooling
+- Docker, Kubernetes
+- RabbitMQ, Redis, BullMQ
+- PostgreSQL, MongoDB
+- Nx, Turborepo
+- CI/CD, Git, Cloud APIs
+
+---
+
+## 🎓 Education
+
+- **MSc in Quantum Technologies** — *Oxford University* (Upcoming, 2026–2027)
+- **BSc in Computer Engineering (Software Engineering)**  
+  Antonine University (2019–2024)
+
+---
 
 ## 📊 GitHub Stats
-[![internalizable's github stats](https://github-readme-stats.vercel.app/api?username=internalizable&show_icons=true&hide_border=true&count_private=true&title_color=004386&icon_color=004386)](https://github.com/internalizable)
 
-## 🌐 Languages
-I can speak Arabic since it is my native language, and can speak English; French and Spanish as secondary language.  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=internalizable&show_icons=true&hide_border=true&count_private=true)
 
-## 🖥️ Programming Languages
+---
 
-![Java (advanced)](https://img.shields.io/badge/Java-advanced-orange?style=for-the-badge&logo=java)
-![PHP (advanced)](https://img.shields.io/badge/PHP-advanced-blue?style=for-the-badge&logo=php)  
-![Typescript (intermediate)](https://img.shields.io/badge/Typescript-intermediate-blue?style=for-the-badge&logo=typescript)
-![React (intermediate)](https://img.shields.io/badge/React-intermediate-blue?style=for-the-badge&logo=react)
-![Python (intermediate)](https://img.shields.io/badge/Python-intermediate-blue?style=for-the-badge&logo=python)
+## 🌍 Languages
 
-## 🌱 I’m currently learning ...
- - Machine Learning
- - Docker & K8s
+- Arabic — Native  
+- English — Fluent  
+- French — Professional  
+- Spanish — Conversational  
 
-## 👋 Bye!
+---
+
+## 📌 Notes
+
+Most of my production work lives in **private repositories** or enterprise environments.  
+Public repos are typically **experiments, tooling, or stripped-down references**.
+
+If you’re here for:
+- architecture discussions
+- system design
+- consulting
+- collaboration
+
+Feel free to reach out.
+
+---
+
+⭐ If you like clean systems, strong typing, and scalable design — you’ll feel at home here.
